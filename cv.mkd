@@ -1,9 +1,27 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Equipe de Jornalismo - Desenvolvedor - Portal G1 ou qualquer outra vaga para desenvolvimento web, IJustReallyWantToWorkAtGloboCom :)
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Olá, me chamo Davi Ferreira, nasci em 28 de fevereiro de 1980 e sou programador desde 1998. Sou solteiro e moro no Rio de Janeiro.
+
+Meu e-mail é contato@daviferreira.com. Mais informações sobre minha vida profissional você encontra no meu [perfil no LinkedIn](http://br.linkedin.com/in/daviferreira). 
+
+##O que faço
+
+Tenho sólidos conhecimentos em PHP e seus frameworks (CodeIgniter, Simfony, Cake, ZF). Nos últimos anos venho me aprimorando no desenvolvimento Python/Django e Ruby/Rails.
+
+Também possuo sólidos conhecimentos de HTML/CSS/JavaScript e seus frameworks/toolkits/bibliotecas.
+
+##O que fiz
+
+Meu portfólio, com todos os meus trabalhos, está disponível em http://www.daviferreira.com. Também gosto muito de escrever - possuo um [blog](http://www.daviferreira.com/blog) e, quinzenalmente, escrevo sobre jQuery e JavaScript no [Tableless](http://www.tableless.com.br).
+
+Meus últimos trabalhos pessoais incluem o site de perguntas e respostas [Funfou](http://www.funfou.com.br), desenvolvido em Rails, e o site de citações [def programming](http://www.defprogramming.com), desenvolvido em Django.
+
+##O que quero fazer
+
+A longo prazo (não tão longo assim), mudar o mundo. A curto prazo, trabalhar com desenvolvedores e designers experientes, apaixonados pelo o que fazem - adquirir novos conhecimentos, aprender novas linguagens e metodologias.
